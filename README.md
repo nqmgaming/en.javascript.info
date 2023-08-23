@@ -1,6 +1,6 @@
-# The Modern JavaScript Tutorial
+# Hướng dẫn mọi thứ về JavaScript
 
-This repository hosts the English content of the Modern JavaScript Tutorial, published at [https://javascript.info](https://javascript.info).
+Kho lưu trữ này là một phần của Modern JavaScript Tutorial và được xuất bản tại [https://javascript.info](https://javascript.info).
 
 ## Translations
 
